@@ -1,0 +1,26 @@
+{
+  "name": "ecotrack_tea",
+  "version": "1.0.0",
+  "description": "Welcome to EcoTrack! EcoTrack is a sustainability tracking platform designed to empower individuals and organizations to make eco-friendly choices. Whether you're a sustainability enthusiast, a business owner, or a concerned citizen, EcoTrack provides the tools and resources you need to monitor your environmental impact and take meaningful actions to protect our planet. Say hello to a greener future with EcoTrack!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/2senyi-2/EcoTrack.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "2senyi-2",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }

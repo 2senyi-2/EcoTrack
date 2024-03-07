@@ -1,0 +1,3 @@
+EcoTrack
+Introduction
+Welcome to EcoTrack! EcoTrack is a sustainability tracking platform designed to empower individuals and organizations to make eco-friendly choices. Whether you're a sustainability enthusiast, a business owner, or a concerned citizen, EcoTrack provides the tools and resources you need to monitor your environmental impact and take meaningful actions to protect our planet. Say hello to a greener future with EcoTrack!
